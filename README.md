@@ -17,8 +17,8 @@ The D1 database is initialized with a `comments` table and this data:
 ```SQL
 INSERT INTO comments (author, content)
 VALUES
-    ('Kristian', 'Congrats!'),
-    ('Serena', 'Great job!'),
+    ('Dongz', 'Congrats!'),
+    ('admin', 'Great job!'),
     ('Max', 'Keep up the good work!')
 ;
 ```
